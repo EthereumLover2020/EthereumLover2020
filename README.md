@@ -1,6 +1,6 @@
 
-<h2 font-weight="bold">Do you love Blockchain? I love it very much!</h2>
-<p>* Ethereum is one of the most Exciting Blockchain, I can't think my life without Ethereum! *</p>
+<h2 font-weight="bold">Professional Blockchain!</h2>
+
 "I am a certified software engineer with over 8 years of experience in the development of SaaS web applications.
 As a software engineer, I am ready to be hired for personal development or team development.
 I have much experience in MERN stack development and Blockchain.
