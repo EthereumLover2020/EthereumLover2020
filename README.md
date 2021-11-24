@@ -9,20 +9,35 @@ I'm also have good experience in Smart Contract development and DApp development
 I'm focusing on TypeScript/ECMAScript based on Javascript.
 I love to work with an emphasis on using best practices to develop high-quality software that meets client's requirements."
 
+<br />
 ★ Web Development
+<br />
 ● Angular 2-11, NgRx, rxjs, Ionic
+<br />
 ● ReactJS, React-Redux, Redux-Thunk, Redux-Saga, React-Native
+<br />
 ● Vue.js, Vue Router
+<br />
 ● NodeJS, Express, Laravel, Python
+<br />
 ★ Database
+<br />
 ● Postgresql, MySQL, Oracle, MariaDB, MongoDB
+<br />
 ★ Blockchain
+<br />
 ● Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
+<br />
 ● DeFi, Staking, Farming
+<br />
 ● Web3
+<br />
 ● Metamask, Trust Wallet, Torus, Binance Wallet
+<br />
 ★ PMS
+<br />
 ● GitHub, GitLab, BitBucket
+<br />
 ● Trello, Asana, Jira
 
 <br />
